@@ -1,0 +1,17 @@
+h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 15px;
+  font-style: italic;
+  color: hotpink;
+}
+
+p {
+  font-size: 15px;
+  font-style: italic;
+  background-color: orange;
+}
+
+p:hover {
+  font-size: 30px;
+}
+
